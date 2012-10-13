@@ -32,6 +32,7 @@ Summary:	Header files for usbpath library
 Summary(pl.UTF-8):	Pliki nagłówkowe biblioteki usbpath
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
+Requires:	libusb-compat-devel >= 0.1
 
 %description devel
 Header files for usbpath library.
