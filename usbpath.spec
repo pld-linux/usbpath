@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Konwersja między fizycznym położeniem urządzenia USB a je
 Name:		usbpath
 Version:	0.1
 %define	snap	20071015
-Release:	0.%{snap}.1
+Release:	0.%{snap}.2
 License:	GPL v2+
 Group:		Libraries
 # svn co http://svn.openmoko.org/trunk/src/host/usbpath/ usbpath
